@@ -25,7 +25,7 @@ import com.google.gwt.i18n.client.DateTimeFormat;
 
 import java.util.Date;
 import java.util.ArrayList;
-// making conflict
+
 public class StockWatcher implements EntryPoint {
 
 	private static final int REFRESH_INTERVAL = 5000; // ms
