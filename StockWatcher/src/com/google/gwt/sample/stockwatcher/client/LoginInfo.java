@@ -1,7 +1,7 @@
 package com.google.gwt.sample.stockwatcher.client;
 
 import java.io.Serializable;
-
+// making merge conflict
 public class LoginInfo implements Serializable {
 
   private boolean loggedIn = false;
